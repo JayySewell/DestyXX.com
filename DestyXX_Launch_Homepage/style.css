@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background: #0a0a0a;
+  color: white;
+  text-align: center;
+}
+.hero {
+  padding: 10vh 2rem;
+}
+.logo {
+  max-width: 120px;
+  margin-bottom: 2rem;
+}
+.button {
+  display: inline-block;
+  margin-top: 1.5rem;
+  padding: 0.75rem 2rem;
+  background: gold;
+  color: black;
+  font-weight: bold;
+  text-decoration: none;
+  border-radius: 5px;
+}
